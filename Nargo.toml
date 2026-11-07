@@ -1,0 +1,9 @@
+[package]
+name = "wide_math"
+type = "lib"
+description = "256-bit unsigned integer helpers for Noir: wide u128 multiplication, mul_div and comparisons"
+authors = ["Oleh Misarosh <olehmisar@gmail.com>"]
+repository = "https://github.com/nemi-fi/wide_math"
+keywords = ["Noir", "u256", "wide_math", "uint256", "math", "mul_div"]
+
+[dependencies]

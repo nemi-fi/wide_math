@@ -12,7 +12,7 @@ Put this into your Nargo.toml.
 <!-- x-release-please-start-version -->
 
 ```toml
-wide_math = { git = "https://github.com/nemi-fi/wide_math/", tag = "v0.1.0" }
+wide_math = { git = "https://github.com/nemi-fi/wide_math/", tag = "v0.1.1" }
 ```
 
 <!-- x-release-please-end -->
